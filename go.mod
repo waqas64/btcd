@@ -62,4 +62,6 @@ retract (
 	v0.13.0-beta
 )
 
+replace github.com/btcsuite/btcd => github.com/waqas64/btcd v0.0.0-20230313150330-a2b7a9234f5b
+
 go 1.17
