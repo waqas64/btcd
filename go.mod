@@ -1,5 +1,3 @@
-replace github.com/btcsuite/btcd => github.com/waqas64/btcd v0.0.0-20230313150330-a2b7a9234f5b
-
 module github.com/btcsuite/btcd
 
 require (
